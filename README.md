@@ -53,6 +53,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/d-coder111"><img src="https://avatars.githubusercontent.com/u/82580017?v=4?s=100" width="100px;" alt="d-coder111"/><br /><sub><b>d-coder111</b></sub></a><br /><a href="#content-d-coder111" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Rudra2198"><img src="https://avatars.githubusercontent.com/u/89503697?v=4?s=100" width="100px;" alt="Rudra Patel"/><br /><sub><b>Rudra Patel</b></sub></a><br /><a href="#content-Rudra2198" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Itsfoss0"><img src="https://avatars.githubusercontent.com/u/105123601?v=4?s=100" width="100px;" alt="Ebenezer R. "/><br /><sub><b>Ebenezer R. </b></sub></a><br /><a href="#content-Itsfoss0" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dragondev-king"><img src="https://avatars.githubusercontent.com/u/95838192?v=4?s=100" width="100px;" alt="dragondev-king"/><br /><sub><b>dragondev-king</b></sub></a><br /><a href="#content-dragondev-king" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
